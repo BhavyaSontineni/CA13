@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764127449010",
+    "project_id": "authify-3763a",
+    "storage_bucket": "authify-3763a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764127449010:android:bf63abc54bf38d96909eab",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authenticate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoHAKiUPQudNX3UarbO1Z5Tr6h_XBGP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764127449010:android:51c6361e573fe025909eab",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoHAKiUPQudNX3UarbO1Z5Tr6h_XBGP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
